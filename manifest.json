@@ -1,0 +1,66 @@
+{
+  "short_name": "Sourcecodeaplikasi.web.id",
+  "name": "Sourcecodeaplikasi.web.id",
+  "description": "Download Source Code Aplikasi Berbasis Web, Desktop, dan Mobile. Dapatkan Script Premium Dengan Pemrograman PHP, VB.Net, dan Android dari MC Project",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-4A3a6t3r2-c/YHM5DE94HmI/AAAAAAAAAJQ/1oL26FWhcVc4aV1YbdWC8nYL4L-R_LY2gCLcBGAsYHQ/s32/MycodingLogo32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-7AEqOazIAFc/YHM5DIqGC3I/AAAAAAAAAJU/YfF5fGRvm-AgUeuPIubQPGwu-Dma6mNzACLcBGAsYHQ/s48/MycodingLogo48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-w24jBqi3Mak/YHM5DzCo5yI/AAAAAAAAAJc/L_JOTDA-T2EXQAORc4k0HGkP8GXwuJxvQCLcBGAsYHQ/s72/MycodingLogo72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-3xUwsPk5-kM/YHM5Dwmh_0I/AAAAAAAAAJg/aN6NYauK8S0dGGAPvW8X5R_GdTiopUMmwCLcBGAsYHQ/s96/MycodingLogo96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-wftwYN0lB7M/YHM5B0i2y_I/AAAAAAAAAJE/2QUM2s3ExFkxiuLun_47ZlU6R9v7wrIYQCLcBGAsYHQ/s144/MycodingLogo144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-CKAqf55cPgQ/YHM5BxiPQ_I/AAAAAAAAAI8/9ufjfDsIk_0LJkoQuRikc5e7hldqf1yNQCLcBGAsYHQ/s168/MycodingLogo168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/--t170jKlmWw/YHM5CpaUb2I/AAAAAAAAAJI/MSQyLANi0NEdREcxlqVablEh6PTl9hpQwCLcBGAsYHQ/s180/MycodingLogo180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MzW5f7prl0k/YHM5DDlwNpI/AAAAAAAAAJM/ppqD6F4I-qkpNvsW3bhaYGgEYliQiBz3wCLcBGAsYHQ/s192/MycodingLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-_qxdBiNsZiU/YHM5D71308I/AAAAAAAAAJY/Ivo_dM1S4cgaDJBlCtShg0HaLSSe47VfACLcBGAsYHQ/s512/MycodingLogo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://www.sourcecodeaplikasi.web.id",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#005CAA"
+}
